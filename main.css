@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    margin: 10px;
+}
+#tag,#sign,#attribute{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+#render_generator{
+    float: right;
+    width: 40%;
+}
+
+/* CSS DE COLORATION AU RENDU */
+.gris{
+	color: #75715E;
+}
+.rose{
+	color: #F92672;
+}
+.jaune{
+	color: #E6DB74;
+}
+.violet{
+	color: #AE81FF;
+}
+.bleu{
+	color: #66D9EF;
+}
+.vert{
+	color: #A6E22E;
+}
+.blanc{
+	color: white;
+}
